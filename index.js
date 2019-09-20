@@ -31,16 +31,16 @@ stdin.addListener("data", function(d) {
               throw err;
       console.log('El archivo con aleman y griego se creo correctamente mijito!');
     });
-/*
+
     fs.writeFile(
-      'rusopolaco.txt', 
+      'rusopolaco.txt',   
       ruso, 
       (err) => {
           if (err) 
               throw err;
-      console.log('El archivo con ruso, polaco y arabe se creo correctamente salibaba!');
+      console.log('El archivo con ruso, polaco y arabe se creo correctamente salibaba salibabien!');
     });
-    */
+    
   });
 
 
